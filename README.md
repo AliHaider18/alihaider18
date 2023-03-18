@@ -14,9 +14,6 @@
 - 📝 Technical Writer
 
 - ✍️ Content Writer
-
-- ⚽ #GGMU
-
  
 
 <hr class="solid">
