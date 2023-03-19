@@ -7,7 +7,7 @@
 
 - 👨‍💻 Currently learning **Vue & IOT**
 
-- 🎨 My UI/UX projects => [https://www.behance.net/alihaider304](https://www.behance.net/alihaider304)
+- 🎨 My UI/UX projects => <a href="https://www.behance.net/alihaider304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance Logo" height="25" width="32" /></a>
 
 - 💬 Ask me about **MERN Stack**
 
@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alihaiderrandhawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alihaiderrandhawa" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/alihaider304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/alihaider304" height="30" width="40" /></a>
+<a href="https://www.behance.net/alihaider304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance Logo" height="30" width="40" /></a>
 </p>
 
 <hr class="solid">
