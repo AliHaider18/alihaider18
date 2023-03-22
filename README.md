@@ -5,7 +5,7 @@
 
 - 🧮 Currently working as an **Open-Source Contributor**
 
-- 👨‍💻 Currently learning **Vue & IOT**
+- 👨‍💻 Currently learning **VueJs**
 
 - 🎨 My UI/UX projects => <a href="https://www.behance.net/alihaider304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance Logo" height="25" width="32" /></a>
 
