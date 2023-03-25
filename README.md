@@ -21,7 +21,7 @@
 <hr class="solid">
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihaider18&theme=aura" alt="alihaider18" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihaider18&theme=discord" alt="alihaider18" /></a> </p>
 
 <hr class="solid">
 
