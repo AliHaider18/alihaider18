@@ -5,17 +5,10 @@
 
 - 👨‍💻 Technophile
 
-- 🧮 Currently working as an **Open-Source Contributor**
-
-- 📖 Currently learning **VueJs**
+- 🧮 Currently working as an **Full Stack Software Engineer**
 
 
-
-- 💬 Ask me about **MERN Stack**
-
-- 📝 Technical Writer
-
-- ✍️ Content Writer
+- 💬 Ask me about **Full Stack Development**
  
 
 <hr class="solid">
