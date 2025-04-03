@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Haider Randhawa</h1>
-<h3 align="center">MERN Stack Developer and DevOps Enthusiast</h3>
+<h3 align="center">Polyglot Full-Stack Software Engineer</h3>
 
 <hr class="solid">
 
