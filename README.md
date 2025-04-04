@@ -34,7 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihaider18&theme=aura&show_icons=true&locale=en" alt="alihaider18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihaider18&theme=aura" alt="alihaider18" /></p>
 
 <hr class="solid">
 
